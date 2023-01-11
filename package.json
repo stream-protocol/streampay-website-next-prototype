@@ -1,57 +1,26 @@
-{ <<
-    <<
-    << < HEAD
-        "name": "streampay-landing-page",
-        "version": "1.0.0",
-        "description": "Web3 Payments Protocol",
-        "main": "index.js",
-        "scripts": {
-            "dev": "next",
-            "build": "next build",
-            "start": "next start",
-            "export": "next export"
-        },
-        "author": "Stream Protocol",
-        "license": "MIT",
-        "dependencies": {
-            "next": "^12.1.0",
-            "react": "^17.0.2",
-            "react-dom": "^17.0.2",
-            "@lottiefiles/lottie-player": "1.6.0",
-            "prop-types": "15.7.2"
-        },
-        "devDependencies": {
-            "tailwindcss": "^3.0.24",
-            "autoprefixer": "^10.4.7",
-            "postcss": "^8.4.14"
-        }
-} ===
-===
-=
-"name": "streampay-landing-page",
-"version": "1.0.0",
-"description": "Web3 Payments Protocol",
-"main": "index.js",
-"scripts": {
-    "dev": "next",
-    "build": "next build",
-    "start": "next start",
-    "export": "next export"
-},
-"author": "Stream Protocol",
-"license": "MIT",
-"dependencies": {
-    "next": "^12.1.0",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "@lottiefiles/lottie-player": "1.6.0",
-    "prop-types": "15.7.2"
-},
-"devDependencies": {
-    "tailwindcss": "^3.0.24",
-    "autoprefixer": "^10.4.7",
-    "postcss": "^8.4.14"
+{
+    "name": "streampay-landing-page",
+    "version": "1.0.0",
+    "description": "Web3 Payments Protocol",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next",
+        "build": "next build",
+        "start": "next start",
+        "export": "next export"
+    },
+    "author": "Stream Protocol",
+    "license": "MIT",
+    "dependencies": {
+        "next": "^12.1.0",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "@lottiefiles/lottie-player": "1.6.0",
+        "prop-types": "15.7.2"
+    },
+    "devDependencies": {
+        "tailwindcss": "^3.0.24",
+        "autoprefixer": "^10.4.7",
+        "postcss": "^8.4.14"
+    }
 }
-} >>>
->>>
-> b6607f1(Redesigned)
