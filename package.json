@@ -9,7 +9,7 @@
         "start": "next start",
         "export": "next export"
     },
-    "author": "TeleportHQ",
+    "author": "Stream Protocol",
     "license": "MIT",
     "dependencies": {
         "next": "^12.1.0",
