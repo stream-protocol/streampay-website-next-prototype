@@ -1,1 +1,1 @@
-# StreamPay Landing Page Test - Next
+# StreamPay Landing Page Prototype
