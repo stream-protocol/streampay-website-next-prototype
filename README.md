@@ -1,1 +1,1 @@
-# StreamPay Landing Page Prototype
+# StreamPay Landing Page Boilerplate
